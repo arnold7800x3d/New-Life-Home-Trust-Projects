@@ -1,8 +1,8 @@
 <?php
 //Database parameters
 $servername = "localhost";
-$username = "arnold";
-$password = "123pass";
+$username = "username";
+$password = "password";
 $dbname = "NewLifeHomeTrustDB";
 
 // Create connection
